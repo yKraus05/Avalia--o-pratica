@@ -19,7 +19,14 @@ p {
     padding-left: 540px;
 }
 .botao button{
-    width: 120px;
+    background-color: #000000;  
+    border: none;
+    font-weight: 600;
+    transition: background-color 0.3s;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 150px;
     height: 60px;
 }
 .computador{
@@ -55,33 +62,8 @@ body {
     color: #333;
     line-height: 1.6;
 }
-.livro{
-    padding: 5rem 5rem;
-    display: flex;
-    position: relative;
-}
-.livro img{
-    width: 700px;
-    height: 700px;
-    float: left;
-}
-.livro p{
-    top: 180px;
-    position: absolute;
-    text-align: left;
-    padding-left: 47rem;
-    font-size: 30px;
-    font-family: Arial, Helvetica, sans-serif;
-    padding-right: 3rem;
-}
-.livro h2{
-    
-    position: absolute;
-    text-align: left;
-    padding-left: 47rem;
-    font-size: 30px;
-    font-family: Arial, Helvetica, sans-serif
-}
+
+
 /* Cabeçalho */
 header {
     background-color: #0f0f0f;
