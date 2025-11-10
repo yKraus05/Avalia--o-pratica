@@ -4,49 +4,49 @@ const products = [
     {
         id: 1,
         name: "PC Gamer Ryzen 5 5600G 16GB 480GB SSD",
-        price: 3.500,
+        price: 3500,
         image: "image/computador1.webp"
     },  
     {
         id: 2,
         name: "Computador Intel i5 10400F 16GB GTX 1660S",
-        price: 8.000,
+        price: 8000,
         image: "image/computador2.webp"
     },  
     {
         id: 3,
         name: "Computador Ryzen 7 5700G 32GB SSD 100GB",
-        price: 4.700,
+        price: 4700,
         image: "image/computador3.webp"
     },  
     {
         id: 4,
         name: "Computador Gamer i7 11700F RTX 3060 400GB",
-        price: 3.900,
+        price: 3900,
         image: "image/computador4.jpg"
     },  
     {
         id: 5,
         name: "Computador Ryzen 5 5600 16GB RX 6600 500GB SSD",
-        price: 7.250,
+        price: 7250,
         image: "image/computador5.jpeg"
     },  
     {
         id: 6,
         name: "Computador Intel i5 12400 16GB SSD 480GB",
-        price: 6.000,
+        price: 6000,
         image: "image/computador6.jpg"
     },  
     {
         id: 7,
         name: "PC Gamer Ryzen 5 4600G 16GB 480GB SSD RGB",
-        price: 5.650,
+        price: 5650,
         image: "image/computador7.jpg"
     },  
     {
         id: 8,
         name: "Computador Intel i3 12100 8GB SSD 480GB Office",
-        price: 10.500,
+        price: 10500,
         image: "image/computador8.avif"
     },  
 ];
