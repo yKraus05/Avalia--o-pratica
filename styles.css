@@ -5,6 +5,24 @@
     box-sizing: border-box;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+.hero {
+    background: linear-gradient(135deg, #ff1a05, #7b0000);
+    color: #fff;
+    padding: 4rem 2rem;
+    text-align: center;
+   
+}
+
+.hero h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.hero p {
+    font-size: 1.2rem;
+    max-width: 600px;
+    margin: 0 auto 2rem;
+}
 
 p {
     color: #0f0f0f;
